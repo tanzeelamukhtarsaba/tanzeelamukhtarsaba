@@ -1,0 +1,8 @@
+let weather = "spring";
+if (weather === " flower blossom") {
+    console.log("wear a frock.");
+}else if (weather === "spring") {
+    console.log("wear a shorts.");
+} else {
+    console.log("wear sunglasses.");
+}
