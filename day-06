@@ -1,0 +1,7 @@
+//for loop
+
+//loop format syntax
+
+for (let h=1; h<=6; h++ ){
+  console.log('good luck')
+}
