@@ -1,0 +1,8 @@
+//if-else || ya-wo
+
+let come = 'azan'
+
+if (come === 'azan'){
+console.log('hyy, you can come!')
+
+}
