@@ -1,0 +1,8 @@
+//logical operator 
+ let a = 5;
+ let b =7;
+ let c = 9; 
+ let d = 10;
+ let operator = (a>6) || (b>0) ||(c>0);
+
+ console.log(operator);
