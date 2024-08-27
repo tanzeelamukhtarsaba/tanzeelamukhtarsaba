@@ -1,0 +1,13 @@
+/assignability error 
+
+let firstname:string = 'hafiz';
+let lastname: string = 'arif';
+let fullName: string = firstname +''+ lastname;
+
+console.log(fullName);
+
+
+
+
+
+
