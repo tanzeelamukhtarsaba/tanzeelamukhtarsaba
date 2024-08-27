@@ -1,0 +1,9 @@
+// syntax error
+ 
+
+
+
+
+ let message = "Helloworld";
+ message:number = 6;
+ console.log(message);
